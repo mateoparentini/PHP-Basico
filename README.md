@@ -1,6 +1,6 @@
-# 🎓 Curso de Desarrollo Web Full Stack
+# 🎓 Curso de PHP
 
-Este repositorio contiene los recursos, ejercicios y prácticas de un curso completo de desarrollo web.Está organizado por secciones temáticas para facilitar el aprendizaje progresivo.
+Este repositorio contiene los recursos, ejercicios y prácticas de un curso completo de PHP.Está organizado por secciones temáticas para facilitar el aprendizaje progresivo.
 
 ---
 ### 🔹[Básico/](./Basico)
