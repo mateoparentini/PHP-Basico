@@ -3,7 +3,7 @@
 Este repositorio contiene los recursos, ejercicios y prácticas de un curso completo de desarrollo web.Está organizado por secciones temáticas para facilitar el aprendizaje progresivo.
 
 ---
-### 🔹 [`PHP/`](./PHP/)
+### 🔹 [`Basico/`](./PHP/)
 Incluye ejemplos prácticos de programación con **PHP**, para aprender los fundamentos del lenguaje y el manejo básico de archivos y estructuras.
 
 - Variables, tipos de datos, operadores y condicionales
